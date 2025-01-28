@@ -1,2 +1,13 @@
 # PRODIGY_DS_Task2
-![TASK_2](https://github.com/Ruturaj0322/PRODIGY_DS_Task2/blob/main/Screenshot%202025-01-08%20164240.png)
+
+Circle with gradient
+Simple Gradient Half Circle Shape
+02
+
+Task-02
+
+Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
+
+
+
+Sample Dataset :- https://www.kaggle.com/c/titanic/data
